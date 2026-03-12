@@ -1,5 +1,5 @@
-HI GUYS!! Eu sou a Sabrina Campos
-Professora de Desenvolvimento de Sistemas
+HI GUYS!! Eu sou a Sabrina Campos <br>
+Professora de Desenvolvimento de Sistemas <br>
 👩‍💻 Leciono as disciplinas de Versionamento de Código e o Projeto Multidisciplinar 👩‍💻
 <div>
   <a href="https://github.com/Bribss">
@@ -16,8 +16,8 @@ Professora de Desenvolvimento de Sistemas
   
 <div> 
     <br>
-    <a href="https://www.youtube.com/channel/UCX6ziH13WhFj-Up2tq7BnsA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/@sabrinacampos7649" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/sabrina.arau/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://discord.com/users/bribs6083" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/sabrinacvaraujo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
