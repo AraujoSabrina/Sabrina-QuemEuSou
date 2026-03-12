@@ -3,8 +3,8 @@ Professora de Desenvolvimento de Sistemas
 👩‍💻 Leciono as disciplinas de Versionamento de Código e o Projeto Multidisciplinar 👩‍💻
 <div>
   <a href="https://github.com/Bribss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bribss&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bribss&layout=compact&langs_count=7&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AraujoSabrina&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AraujoSabrina&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div>  
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
